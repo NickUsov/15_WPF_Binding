@@ -1,0 +1,16 @@
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\home\05\15\15_WPF_Binding\15_WPF_Binding\15_WPF_Binding\bin\Debug\15_WPF_Binding.exe.config
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\home\05\15\15_WPF_Binding\15_WPF_Binding\15_WPF_Binding\bin\Debug\15_WPF_Binding.exe
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\home\05\15\15_WPF_Binding\15_WPF_Binding\15_WPF_Binding\bin\Debug\15_WPF_Binding.pdb
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\home\05\15\15_WPF_Binding\15_WPF_Binding\15_WPF_Binding\obj\Debug\15_WPF_Binding.csprojAssemblyReference.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\home\05\15\15_WPF_Binding\15_WPF_Binding\15_WPF_Binding\obj\Debug\MainWindow.g.cs
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\home\05\15\15_WPF_Binding\15_WPF_Binding\15_WPF_Binding\obj\Debug\App.g.cs
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\home\05\15\15_WPF_Binding\15_WPF_Binding\15_WPF_Binding\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\home\05\15\15_WPF_Binding\15_WPF_Binding\15_WPF_Binding\obj\Debug\15_WPF_Binding_MarkupCompile.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\home\05\15\15_WPF_Binding\15_WPF_Binding\15_WPF_Binding\obj\Debug\15_WPF_Binding_MarkupCompile.lref
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\home\05\15\15_WPF_Binding\15_WPF_Binding\15_WPF_Binding\obj\Debug\MainWindow.baml
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\home\05\15\15_WPF_Binding\15_WPF_Binding\15_WPF_Binding\obj\Debug\15_WPF_Binding.g.resources
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\home\05\15\15_WPF_Binding\15_WPF_Binding\15_WPF_Binding\obj\Debug\_15_WPF_Binding.Properties.Resources.resources
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\home\05\15\15_WPF_Binding\15_WPF_Binding\15_WPF_Binding\obj\Debug\15_WPF_Binding.csproj.GenerateResource.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\home\05\15\15_WPF_Binding\15_WPF_Binding\15_WPF_Binding\obj\Debug\15_WPF_Binding.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\home\05\15\15_WPF_Binding\15_WPF_Binding\15_WPF_Binding\obj\Debug\15_WPF_Binding.exe
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\home\05\15\15_WPF_Binding\15_WPF_Binding\15_WPF_Binding\obj\Debug\15_WPF_Binding.pdb
